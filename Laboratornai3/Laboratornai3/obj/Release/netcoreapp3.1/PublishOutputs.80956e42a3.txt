@@ -1,0 +1,5 @@
+C:\Proekt\Laboratornai3.exe
+C:\Proekt\Laboratornai3.dll
+C:\Proekt\Laboratornai3.deps.json
+C:\Proekt\Laboratornai3.runtimeconfig.json
+C:\Proekt\Laboratornai3.pdb
